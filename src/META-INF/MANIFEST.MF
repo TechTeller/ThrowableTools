@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: bukkit-1.7.2-R0.3-20140119.221504-12.jar
+Main-Class: com.github.Wilwark.ThrowableTools.Main
+
